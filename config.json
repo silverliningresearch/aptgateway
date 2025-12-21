@@ -1,11 +1,11 @@
 {
-    "mode": "primary",
-    "primary": {
-        "url": "http://85.9.202.121",
-        "requiresToken": true
-    },
-    "fallback": {
-        "url": "https://raw.githubusercontent.com/silverliningresearch/aptdata/main",
-        "requiresToken": false
-    }
+  "mode": "primary",
+  "primary": {
+    "url": "https://85.9.202.121.nip.io",
+    "requiresToken": true
+  },
+  "fallback": {
+    "url": "https://raw.githubusercontent.com/silverliningresearch/aptdata/main",
+    "requiresToken": false
+  }
 }
