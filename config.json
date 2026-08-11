@@ -5,7 +5,7 @@
     "requiresToken": true
   },
   "fallback": {
-    "url": "https://raw.githubusercontent.com/silverliningresearch/aptdata/main",
+    "url": "https://raw.githubusercontent.com/silverliningresearch/aptdata",
     "requiresToken": false
   }
 }
