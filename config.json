@@ -1,5 +1,5 @@
 {
-  "mode": "primary",
+  "mode": "fallback",
   "primary": {
     "url": "https://85.9.202.121.nip.io",
     "requiresToken": true
